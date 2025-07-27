@@ -8,7 +8,7 @@
 
 🎓 **Computer Science Student** at SZABIST Islamabad  
 💻 **Freelance Developer** | Full Stack Enthusiast  
-🌱 Currently interning as a Full Stack Developer @ Healthision  
+🌱 Interned as a Full Stack Developer @ Healthision  
 📅 Graduation: **January 2026**  
 ⭐ GPA: **3.53/4.00**  
 
