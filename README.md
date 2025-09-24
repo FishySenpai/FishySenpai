@@ -67,15 +67,6 @@
 
 ---
 
-## 🌟 More About Me
-
-- 🧑‍💻 Passionate about building automation tools and AI-driven apps
-- 📚 Tutored 20+ students in C++, OOP, and data structures — helping them boost grades by 15–20%
-- 🌍 Helped students from MIT and Stanford with systems programming and compilers
-- 🚀 Always learning something new and open to collaborations!
-
----
-
 ## 📫 Let's Connect!
 
 - [Portfolio](https://nomanbasit.netlify.app)
